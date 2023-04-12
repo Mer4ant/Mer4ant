@@ -17,7 +17,7 @@ Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
 
 ### A bit about me
 * You can call me Herman. he/him.
-* [Object Object] years old.
+* [object Object] years old.
 * Every April 9th I get closer to old age XD
 * I am engaged in design, frontend development, node.js development. Recently I really liked swift.
 
