@@ -15,7 +15,7 @@
 
 <hr>
 
-## 💫 A bit about me
+### 💫 A bit about me
 * You can call me Herman. he/him.
 * [object Object] years old.
 * Every April 9th I get closer to old age XD
@@ -23,13 +23,13 @@
 
 <hr>
 
-## 🍫 Contact me
+### 🍫 Contact me
 * Telegram: [@ger_miskiw](https://t.me/ger_miskiw/)
 * Discord: Mer4ant - [ Makaroshka Empiere ]#9744
 * YouTube: [Woooow!](https://youtube.com/@luxora)
 
 <hr>
 
-## 🍭 Below are some stats for me so you understand what I do :/
+### 🍭 Below are some stats for me so you understand what I do :/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mer4ant)](https://github.com/Mer4ant/github-readme-stats)
