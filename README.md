@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-WebhookApi-yellow" alt="test">
 </p>
 
-Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
+👋 Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mer4ant&color=4c10cc&style=flat-square)
 
@@ -15,11 +15,16 @@ Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
 
 <hr>
 
-### A bit about me
+### 💫 A bit about me
 * You can call me Herman. he/him.
 * [object Object] years old.
 * Every April 9th I get closer to old age XD
 * I am engaged in design, frontend development, node.js development. Recently I really liked swift.
+
+<hr>
+
+### About me
+* Telegram: ![@ger_miskiw](https://t.me/ger_miskiw/)
 
 <hr>
 
