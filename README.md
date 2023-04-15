@@ -23,11 +23,13 @@
 
 <hr>
 
-### About me
-* Telegram: ![@ger_miskiw](https://t.me/ger_miskiw/)
+###🍫 About me
+* Telegram: [@ger_miskiw](https://t.me/ger_miskiw/)
+* Discord: Mer4ant - [ Makaroshka Empiere ]
+* YouTube: [Woooow!](https://youtube.com/@luxora)
 
 <hr>
 
-## Below are some stats for me so you understand what I do :/
+##🍭 Below are some stats for me so you understand what I do :/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mer4ant)](https://github.com/Mer4ant/github-readme-stats)
