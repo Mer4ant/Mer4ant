@@ -38,8 +38,8 @@
 
 ### 🏥 And welcome to my repositories!
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mer4ant&repo=Meralant-Frontend-Test&theme=dark)
+![Card](https://github-readme-stats.vercel.app/api/pin/?username=Mer4ant&repo=Meralant-Frontend-Test&theme=dark)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mer4ant&repo=Dopio&theme=dark)
+![Card](https://github-readme-stats.vercel.app/api/pin/?username=Mer4ant&repo=Dopio&theme=dark)
 
 > Tadaaaa! Thanks for the visit!!!
