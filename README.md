@@ -11,7 +11,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mer4ant&color=4c10cc&style=flat-square)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mer4ant&show_icons=true&theme=white)](https://github.com/Mer4ant/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mer4ant&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <hr>
 
@@ -32,4 +32,14 @@
 
 ### 🍭 Below are some stats for me so you understand what I do :/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mer4ant)](https://github.com/Mer4ant/github-readme-stat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mer4ant&theme=dark)
+
+<hr>
+
+### 🏥 And welcome to my repositories!
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mer4ant&repo=Meralant-Frontend-Test&theme=dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mer4ant&repo=Dopio&theme=dark)
+
+> Tadaaaa! Thanks for the visit!!!
