@@ -2,13 +2,6 @@
   Mer4ant - [ Makaroshka Empiere ] | Meralant Team 🤍
 </h2>
 
-<p align="center">
-  My skills
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) !
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-</p>
-
 👋 Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mer4ant&color=4c10cc&style=flat-square)
