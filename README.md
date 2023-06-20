@@ -3,8 +3,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Dopio-blue" alt="test">
-  <img src="https://img.shields.io/badge/-WebhookApi-yellow" alt="test">
+  My skills
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) !
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 </p>
 
 👋 Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
@@ -25,7 +27,7 @@
 
 ### 🍫 Contact me
 * Telegram: [@ger_miskiw](https://t.me/ger_miskiw/)
-* Discord: Mer4ant - [ Makaroshka Empiere ]#9744
+* Discord: @lux0ra
 * YouTube: [Woooow!](https://youtube.com/@luxora)
 
 <hr>
