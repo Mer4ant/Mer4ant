@@ -14,7 +14,7 @@
 * You can call me Herman. he/him.
 * [object Object] years old.
 * Every April 9th I get closer to old age XD
-* I am engaged in design, frontend development, node.js development. Recently I really liked swift.
+* I am engaged in design, frontend development, typescript. Recently I really liked swift, rust.
 
 <hr>
 
