@@ -1,5 +1,5 @@
 <h2 align="center">
-  Mer4ant - [ Makaroshka Empiere ] | Meralant Team 🤍
+  luxora kun | Meralant Team 🤍
 </h2>
 
 👋 Yooooo, welcome to my github, maybe there’s something interesting here, maybe.
@@ -13,13 +13,12 @@
 ### 💫 A bit about me
 * You can call me Herman. he/him.
 * [object Object] years old.
-* Every April 9th I get closer to old age XD
 * I am engaged in design, frontend development, typescript. Recently I really liked swift, rust.
 
 <hr>
 
 ### 🍫 Contact me
-* Telegram: [@ger_miskiw](https://t.me/ger_miskiw/)
+* Telegram: [@lux0ra](https://t.me/lux0ra)
 * Discord: @lux0ra
 * YouTube: [Woooow!](https://youtube.com/@luxora)
 
